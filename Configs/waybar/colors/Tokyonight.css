@@ -1,0 +1,10 @@
+@define-color bg-hover-color #b4f9f8;
+/* background color on hover for workspace */
+@define-color border-color #ca9ee6;
+/* Border color around modules */
+@define-color text-color #4fd6be;
+/* Its in the name.... */
+@define-color text-glow-color #ff9e64;
+/* Turn on text-shadow to make the text have a nice glowing effect. */
+@define-color tooltip-hover-color #41a6b5;
+/* WIP*** Tooltip BG color on mouse hover */

@@ -1,0 +1,250 @@
+2024-10-06 00:12:00.575 [info] [main] Log level: Info
+2024-10-06 00:12:00.575 [info] [main] Validating found git in: "git"
+2024-10-06 00:12:00.575 [info] [main] Using git "2.46.2" from "git"
+2024-10-06 00:12:00.575 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-06 00:12:00.575 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-06 00:12:00.575 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-06 00:12:00.575 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-06 00:12:01.313 [info] > git rev-parse --show-toplevel [41ms]
+2024-10-06 00:12:01.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-06 00:12:02.348 [info] > git rev-parse --show-toplevel [14ms]
+2024-10-06 00:12:02.348 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-10-06 00:12:18.257 [info] > git init -b main [2ms]
+2024-10-06 00:12:18.261 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 00:12:18.267 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-06 00:12:18.276 [info] [Model][openRepository] Opened repository: /home/mistamyke/MistaMyke-Dotfiles
+2024-10-06 00:12:18.284 [info] > git config --get commit.template [1ms]
+2024-10-06 00:12:18.290 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-06 00:12:18.290 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:12:18.290 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:12:18.296 [info] > git status -z -uall [1ms]
+2024-10-06 00:12:18.312 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-10-06 00:12:18.312 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:12:18.314 [info] > git config --get commit.template [2ms]
+2024-10-06 00:12:18.332 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-06 00:12:18.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:12:18.333 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:12:18.340 [info] > git status -z -uall [1ms]
+2024-10-06 00:12:18.346 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:12:18.347 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:12:19.365 [info] > git config --get commit.template [1ms]
+2024-10-06 00:12:19.369 [info] [Git][getRemotes] No remotes found in the git config file
+2024-10-06 00:12:19.370 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:12:19.370 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:12:19.375 [info] > git status -z -uall [1ms]
+2024-10-06 00:12:19.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:12:19.380 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:32.636 [info] > git remote add origin https://github.com/MistaMyke/MistaMyke-Dotfiles.git [3ms]
+2024-10-06 00:13:32.646 [info] > git config --get commit.template [5ms]
+2024-10-06 00:13:32.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:13:32.647 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:32.653 [info] > git status -z -uall [1ms]
+2024-10-06 00:13:32.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-10-06 00:13:32.667 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:32.672 [info] > git push -u origin main [6ms]
+2024-10-06 00:13:32.672 [info] error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/MistaMyke/MistaMyke-Dotfiles.git'
+2024-10-06 00:13:32.684 [info] > git config --get commit.template [6ms]
+2024-10-06 00:13:32.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:13:32.685 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:32.690 [info] > git status -z -uall [1ms]
+2024-10-06 00:13:32.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:13:32.697 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:40.199 [info] > git config --get commit.template [6ms]
+2024-10-06 00:13:40.199 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:13:40.199 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:40.205 [info] > git status -z -uall [1ms]
+2024-10-06 00:13:40.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:13:40.212 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:42.720 [info] > git push -u origin main [6ms]
+2024-10-06 00:13:42.720 [info] error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/MistaMyke/MistaMyke-Dotfiles.git'
+2024-10-06 00:13:42.732 [info] > git config --get commit.template [7ms]
+2024-10-06 00:13:42.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:13:42.732 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:13:42.737 [info] > git status -z -uall [1ms]
+2024-10-06 00:13:42.745 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:13:42.745 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:15:09.507 [info] > git config --get commit.template [6ms]
+2024-10-06 00:15:09.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:15:09.508 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:15:09.513 [info] > git status -z -uall [1ms]
+2024-10-06 00:15:09.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:15:09.520 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:16:33.977 [info] > git config --get commit.template [5ms]
+2024-10-06 00:16:33.978 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:16:33.978 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:16:33.984 [info] > git status -z -uall [1ms]
+2024-10-06 00:16:33.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:16:33.991 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:16:47.942 [info] > git config --get commit.template [5ms]
+2024-10-06 00:16:47.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:16:47.942 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:16:47.948 [info] > git status -z -uall [1ms]
+2024-10-06 00:16:47.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:16:47.955 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:17:48.547 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-06 00:17:50.402 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 00:18:21.392 [info] > git show --textconv :mastering-git/Hello [5ms]
+2024-10-06 00:18:21.393 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/Hello [1ms]
+2024-10-06 00:18:21.638 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 00:18:25.690 [info] > git config --get commit.template [1ms]
+2024-10-06 00:18:25.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:18:25.702 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:18:25.712 [info] > git status -z -uall [1ms]
+2024-10-06 00:18:25.722 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-06 00:18:25.722 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:18:37.913 [info] > git show --textconv :mastering-git/hello.js [12ms]
+2024-10-06 00:18:37.913 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/hello.js [2ms]
+2024-10-06 00:18:38.007 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 00:18:38.586 [info] > git config --get commit.template [6ms]
+2024-10-06 00:18:38.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:18:38.586 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:18:38.593 [info] > git status -z -uall [1ms]
+2024-10-06 00:18:38.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:18:38.599 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:16.602 [info] > git show --textconv :mastering-git/readme.md [8ms]
+2024-10-06 00:20:16.603 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/readme.md [2ms]
+2024-10-06 00:20:16.840 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-06 00:20:17.397 [info] > git config --get commit.template [6ms]
+2024-10-06 00:20:17.397 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:20:17.397 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:17.402 [info] > git status -z -uall [1ms]
+2024-10-06 00:20:17.410 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:20:17.410 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:47.066 [info] > git config --get commit.template [1ms]
+2024-10-06 00:20:47.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:20:47.072 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:47.077 [info] > git status -z -uall [1ms]
+2024-10-06 00:20:47.083 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:20:47.083 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:48.581 [info] > git show --textconv :mastering-git/hello.js [6ms]
+2024-10-06 00:20:48.581 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/hello.js [1ms]
+2024-10-06 00:20:52.096 [info] > git config --get commit.template [5ms]
+2024-10-06 00:20:52.096 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:20:52.096 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:52.101 [info] > git status -z -uall [1ms]
+2024-10-06 00:20:52.109 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:20:52.109 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:58.974 [info] > git config --get commit.template [7ms]
+2024-10-06 00:20:58.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:20:58.974 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:20:58.983 [info] > git status -z -uall [1ms]
+2024-10-06 00:20:58.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:20:58.990 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:23:08.725 [info] > git config --get commit.template [6ms]
+2024-10-06 00:23:08.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:23:08.726 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:23:08.732 [info] > git status -z -uall [1ms]
+2024-10-06 00:23:08.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:23:08.739 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:23:09.773 [info] > git config --get commit.template [6ms]
+2024-10-06 00:23:09.773 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:23:09.773 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:23:09.779 [info] > git status -z -uall [1ms]
+2024-10-06 00:23:09.785 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:23:09.785 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:23:09.869 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/hello.js [1ms]
+2024-10-06 00:23:09.878 [info] > git show --textconv :mastering-git/hello.js [0ms]
+2024-10-06 00:24:20.025 [info] > git config --get commit.template [1ms]
+2024-10-06 00:24:20.031 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-10-06 00:24:20.031 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:24:20.038 [info] > git status -z -uall [1ms]
+2024-10-06 00:24:20.045 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:24:20.045 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:24:21.079 [info] > git config --get commit.template [6ms]
+2024-10-06 00:24:21.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:24:21.079 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:24:21.085 [info] > git status -z -uall [1ms]
+2024-10-06 00:24:21.092 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:24:21.092 [warning] [Git][getBranch] No such branch: main
+2024-10-06 00:24:21.175 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/hello.js [0ms]
+2024-10-06 00:24:21.180 [info] > git cat-file -s 10262455a9f984d29d9f2316f8acbfaa5acedb21 [1ms]
+2024-10-06 00:24:21.188 [info] > git show --textconv :mastering-git/hello.js [1ms]
+2024-10-06 00:24:35.969 [info] > git config --get commit.template [7ms]
+2024-10-06 00:24:35.970 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:24:35.977 [info] > git status -z -uall [1ms]
+2024-10-06 00:24:35.985 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:24:35.992 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-10-06 00:24:35.992 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:24:35.999 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-10-06 00:24:36.007 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-06 00:24:36.007 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:24:37.017 [info] > git config --get commit.template [5ms]
+2024-10-06 00:24:37.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:24:37.024 [info] > git status -z -uall [1ms]
+2024-10-06 00:24:37.031 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:24:37.038 [info] > git config --local branch.main.vscode-merge-base [0ms]
+2024-10-06 00:24:37.038 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:24:37.045 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-10-06 00:24:37.051 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-10-06 00:24:37.051 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:24:37.113 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/hello.js [0ms]
+2024-10-06 00:24:37.119 [info] > git cat-file -s 10262455a9f984d29d9f2316f8acbfaa5acedb21 [1ms]
+2024-10-06 00:24:37.126 [info] > git show --textconv :mastering-git/hello.js [1ms]
+2024-10-06 00:25:17.490 [info] > git show --textconv :mastering-git/test.js [6ms]
+2024-10-06 00:25:17.490 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/test.js [1ms]
+2024-10-06 00:25:17.721 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 00:25:18.312 [info] > git config --get commit.template [1ms]
+2024-10-06 00:25:18.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:25:18.324 [info] > git status -z -uall [1ms]
+2024-10-06 00:25:18.332 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:25:18.339 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-10-06 00:25:18.339 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:25:18.346 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-10-06 00:25:18.352 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-06 00:25:18.352 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:25:50.789 [info] > git config --get commit.template [1ms]
+2024-10-06 00:25:50.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:25:50.799 [info] > git status -z -uall [1ms]
+2024-10-06 00:25:50.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:25:50.814 [info] > git config --local branch.main.vscode-merge-base [0ms]
+2024-10-06 00:25:50.814 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:25:50.831 [info] > git reflog main --grep-reflog=branch: Created from *. [6ms]
+2024-10-06 00:25:50.840 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-10-06 00:25:50.840 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:26:29.174 [info] > git config --get commit.template [5ms]
+2024-10-06 00:26:29.175 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-10-06 00:26:29.181 [info] > git status -z -uall [1ms]
+2024-10-06 00:26:29.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:26:29.195 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-10-06 00:26:29.195 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:26:29.204 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-10-06 00:26:29.209 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-06 00:26:29.209 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:26:42.736 [info] > git config --get commit.template [12ms]
+2024-10-06 00:26:42.746 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/test.js [11ms]
+2024-10-06 00:26:42.755 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-10-06 00:26:42.763 [info] > git cat-file -s a243684db7f7c5aee224dab6662e3184c270e475 [8ms]
+2024-10-06 00:26:42.763 [info] > git status -z -uall [1ms]
+2024-10-06 00:26:42.771 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:26:42.787 [info] > git show --textconv :mastering-git/test.js [1ms]
+2024-10-06 00:26:42.787 [info] > git config --local branch.main.vscode-merge-base [7ms]
+2024-10-06 00:26:42.787 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:26:42.797 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-10-06 00:26:42.804 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-06 00:26:42.804 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:27:01.687 [info] > git config --get commit.template [7ms]
+2024-10-06 00:27:01.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:27:01.694 [info] > git status -z -uall [2ms]
+2024-10-06 00:27:01.701 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 00:27:01.708 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-10-06 00:27:01.708 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:27:01.716 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2024-10-06 00:27:01.721 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-10-06 00:27:01.721 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:27:02.725 [info] > git config --get commit.template [5ms]
+2024-10-06 00:27:02.725 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-10-06 00:27:02.731 [info] > git status -z -uall [1ms]
+2024-10-06 00:27:02.738 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 00:27:02.752 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-10-06 00:27:02.752 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-06 00:27:02.759 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-10-06 00:27:02.764 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-06 00:27:02.764 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-06 00:27:02.822 [info] > git ls-files --stage -- /home/mistamyke/MistaMyke-Dotfiles/mastering-git/test.js [1ms]
+2024-10-06 00:27:02.827 [info] > git cat-file -s a243684db7f7c5aee224dab6662e3184c270e475 [1ms]
+2024-10-06 00:27:02.834 [info] > git show --textconv :mastering-git/test.js [1ms]

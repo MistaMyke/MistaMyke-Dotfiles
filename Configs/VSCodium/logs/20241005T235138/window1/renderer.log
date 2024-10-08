@@ -1,0 +1,36 @@
+2024-10-05 23:51:38.775 [info] Started local extension host with pid 48460.
+2024-10-05 23:51:39.091 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-05 23:51:39.092 [error] Extension 'github.copilot-chat' wants API proposal 'lmTools@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-05 23:51:39.138 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-10-05 23:51:39.138 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-10-05 23:51:41.639 [info] [perf] Render performance baseline is 26ms
+2024-10-05 23:51:41.945 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 23:56:24.284 [info] Started local extension host with pid 49258.
+2024-10-05 23:56:24.741 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-05 23:56:24.741 [error] Extension 'github.copilot-chat' wants API proposal 'lmTools@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-05 23:56:24.788 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-10-05 23:56:24.789 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-10-05 23:56:27.448 [info] [perf] Render performance baseline is 39ms
+2024-10-05 23:56:27.487 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 23:57:07.631 [error] [Extension Host] [auth] auth: CopilotAuthError: GitHubLoginFailed
+    at attemptAuthentication (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/extension/src/auth.ts:63:54) {
+  cause: undefined
+}
+2024-10-05 23:57:07.635 [error] [Extension Host] [auth] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-10-06 00:00:37.954 [info] Started local extension host with pid 50416.
+2024-10-06 00:00:38.264 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-06 00:00:38.264 [error] Extension 'github.copilot-chat' wants API proposal 'lmTools@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-06 00:00:38.304 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-10-06 00:00:38.304 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-10-06 00:00:41.075 [info] [perf] Render performance baseline is 26ms
+2024-10-06 00:00:41.106 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-06 00:05:59.135 [info] Started local extension host with pid 51588.
+2024-10-06 00:05:59.451 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-06 00:05:59.451 [error] Extension 'github.copilot-chat' wants API proposal 'lmTools@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-06 00:05:59.499 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-10-06 00:05:59.499 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2024-10-06 00:06:02.254 [info] [perf] Render performance baseline is 26ms
+2024-10-06 00:06:02.277 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-06 00:06:12.782 [info] Started local extension host with pid 51658.
+2024-10-06 00:06:13.849 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2024-10-06 00:11:46.883 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

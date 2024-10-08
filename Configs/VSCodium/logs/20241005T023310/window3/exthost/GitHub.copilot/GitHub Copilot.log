@@ -1,0 +1,40 @@
+2024-10-05 02:53:46.228 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at JV.removeExpiredCertificates (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificateReaders.ts:77:32)
+    at JV.getAllRootCAs (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificateReaders.ts:68:38)
+    at nae.createSecureContext (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificates.ts:46:23)
+    at nae.applyToRequestOptions (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificates.ts:61:23)
+    at aae.fetch (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/helix.ts:90:9)
+    at eG.fetchExperiments (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/experiments/fetchExperiments.ts:79:20) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2024-10-05 02:53:46.228 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at JV.removeExpiredCertificates (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificateReaders.ts:77:32)
+    at JV.getAllRootCAs (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificateReaders.ts:68:38)
+    at nae.createSecureContext (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificates.ts:46:23)
+    at nae.applyToRequestOptions (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/certificates.ts:61:23)
+    at aae.fetch (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/network/helix.ts:90:9)
+    at eG.fetchExperiments (/home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0/lib/src/experiments/fetchExperiments.ts:79:20) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2024-10-05 02:53:46.228 [info] [certificates] Removed 2 expired certificates
+2024-10-05 02:53:47.046 [error] [auth] Canceled

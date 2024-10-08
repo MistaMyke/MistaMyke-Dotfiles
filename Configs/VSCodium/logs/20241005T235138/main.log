@@ -1,0 +1,11 @@
+2024-10-05 23:51:38.179 [info] update#setState disabled
+2024-10-05 23:51:38.180 [info] update#ctor - updates are disabled as there is no update URL
+2024-10-05 23:56:23.386 [info] Extension host with pid 48460 exited with code: 0, signal: unknown.
+2024-10-05 23:56:24.405 [error] Extension host with pid 48460 still exists, forcefully killing it...
+2024-10-06 00:00:37.039 [info] Extension host with pid 49258 exited with code: 0, signal: unknown.
+2024-10-06 00:05:58.105 [info] Extension host with pid 50416 exited with code: 0, signal: unknown.
+2024-10-06 00:05:58.197 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072258787000, signal: unknown
+2024-10-06 00:05:59.107 [error] Extension host with pid 50416 still exists, forcefully killing it...
+2024-10-06 00:06:12.601 [info] Extension host with pid 51588 exited with code: 0, signal: unknown.
+2024-10-06 00:06:13.603 [error] Extension host with pid 51588 still exists, forcefully killing it...
+2024-10-06 00:11:57.393 [info] Extension host with pid 51658 exited with code: 0, signal: unknown.

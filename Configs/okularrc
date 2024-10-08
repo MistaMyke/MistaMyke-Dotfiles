@@ -1,0 +1,34 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/usr/share/sddm/themes/sddm-astronaut-theme/1374181.png
+File10[$e]=$HOME/Wallpapers/1108478.png
+File2[$e]=$HOME/.local/share/fastfetch/images/nyarch.png
+File3[$e]=$HOME/Wallpapers/1374174.png
+File4[$e]=$HOME/Wallpapers/1281557.jpg
+File5[$e]=$HOME/Wallpapers/1178865.jpg
+File6[$e]=$HOME/Wallpapers/1374180.png
+File7[$e]=$HOME/Wallpapers/1374181.png
+File8[$e]=$HOME/Wallpapers/wp4363107-8bit-wallpapers.jpg
+File9[$e]=$HOME/Wallpapers/966320.jpg
+Name1[$e]=1374181.png
+Name10[$e]=1108478.png
+Name2[$e]=nyarch.png
+Name3[$e]=1374174.png
+Name4[$e]=1281557.jpg
+Name5[$e]=1178865.jpg
+Name6[$e]=1374180.png
+Name7[$e]=1374181.png
+Name8[$e]=wp4363107-8bit-wallpapers.jpg
+Name9[$e]=966320.jpg
+
+[UiSettings]
+ColorScheme=Dracula

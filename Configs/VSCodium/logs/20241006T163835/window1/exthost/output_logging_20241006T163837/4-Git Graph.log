@@ -1,0 +1,34 @@
+[2024-10-06 16:38:38.902] Starting Git Graph ...
+[2024-10-06 16:38:38.971] Using git (version: 2.46.2)
+[2024-10-06 16:38:38.980] > git rev-parse --show-toplevel
+[2024-10-06 16:38:38.980] Showing "Git Graph" Status Bar Item
+[2024-10-06 16:38:38.981] Started Git Graph - Ready to use!
+[2024-10-06 16:38:39.037] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-10-06 16:38:39.053] Searching workspace for new repos ...
+[2024-10-06 16:38:39.054] Completed searching workspace for new repos
+[2024-10-06 16:49:04.130] Created Git Graph View (active repo: /home/mistamyke/MistaMyke-Dotfiles)
+[2024-10-06 16:49:04.306] > git branch -a --no-color
+[2024-10-06 16:49:04.311] > git remote
+[2024-10-06 16:49:04.317] > git reflog --format=... refs/stash --
+[2024-10-06 16:49:04.318] Started watching repo: /home/mistamyke/MistaMyke-Dotfiles
+[2024-10-06 16:49:04.327] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2024-10-06 16:49:04.333] > git show-ref -d --head
+[2024-10-06 16:49:04.340] > git status --untracked-files=all --porcelain
+[2024-10-06 16:49:04.356] > git --no-pager config --list -z --includes
+[2024-10-06 16:49:04.361] > git --no-pager config --list -z --includes --local
+[2024-10-06 16:49:04.367] > git --no-pager config --list -z --includes --global
+[2024-10-06 16:49:17.681] > git branch -a --no-color
+[2024-10-06 16:49:17.687] > git remote
+[2024-10-06 16:49:17.692] > git reflog --format=... refs/stash --
+[2024-10-06 16:49:17.699] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2024-10-06 16:49:17.704] > git show-ref -d --head
+[2024-10-06 16:49:17.711] > git status --untracked-files=all --porcelain
+[2024-10-06 16:49:20.873] > git -c log.showSignature=false show --quiet 4a20433a400e5ef56dc6e3665a23921f131d6fef --format=...
+[2024-10-06 16:49:20.879] > git diff-tree --name-status -r --root --find-renames --diff-filter=AMDR -z 4a20433a400e5ef56dc6e3665a23921f131d6fef
+[2024-10-06 16:49:20.885] > git diff-tree --numstat -r --root --find-renames --diff-filter=AMDR -z 4a20433a400e5ef56dc6e3665a23921f131d6fef
+[2024-10-06 16:49:57.847] > git branch -a --no-color
+[2024-10-06 16:49:57.852] > git remote
+[2024-10-06 16:49:57.858] > git reflog --format=... refs/stash --
+[2024-10-06 16:49:57.866] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2024-10-06 16:49:57.871] > git show-ref -d --head
+[2024-10-06 16:49:57.879] > git status --untracked-files=all --porcelain

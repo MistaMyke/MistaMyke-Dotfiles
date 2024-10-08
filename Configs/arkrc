@@ -1,0 +1,11 @@
+[ExtractDialog]
+1440x810 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/.config/Kvantum/,$HOME/Themes/Dracula/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled

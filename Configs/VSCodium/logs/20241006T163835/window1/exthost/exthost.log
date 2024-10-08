@@ -1,0 +1,48 @@
+2024-10-06 16:38:37.458 [info] Extension host with pid 20280 started
+2024-10-06 16:38:37.458 [info] Skipping acquiring lock for /home/mistamyke/.config/VSCodium/User/workspaceStorage/d8850e2eab4b215d42076358f74515f4.
+2024-10-06 16:38:37.903 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-10-06 16:38:37.907 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-06 16:38:37.911 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-06 16:38:37.927 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-06 16:38:37.963 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-06 16:38:38.802 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-06 16:38:38.821 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-10-06 16:38:38.851 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2024-10-06 16:38:38.983 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-06 16:38:39.006 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-06 16:38:39.120 [info] Eager extensions activated
+2024-10-06 16:38:39.162 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.165 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.177 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.186 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.214 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.215 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.244 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.260 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.404 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.463 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.499 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.613 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.623 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 16:38:39.796 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-10-06 16:38:41.407 [warning] TextEditor is closed/disposed
+2024-10-06 16:38:46.773 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model2)
+2024-10-06 16:38:56.119 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-06 16:38:56.147 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-06 16:42:59.322 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-10-06 16:49:58.231 [error] Error: No such branch: master.
+    at N.getBranch (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:937064)
+    at T.retryRun (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1032765)
+    at T.run (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1032369)
+    at T.getBranch (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1020512)
+    at T.getBranchBase (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1020798)
+    at t.GitHistoryProvider.resolveHEADMergeBase (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:948359)
+    at t.GitHistoryProvider.onDidRunGitStatus (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:941686)
+2024-10-06 16:49:58.250 [error] Error: No such branch: master.
+    at N.getBranch (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:937064)
+    at T.retryRun (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1032765)
+    at T.run (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1032369)
+    at T.getBranch (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1020512)
+    at T.getBranchBase (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:1020798)
+    at t.GitHistoryProvider.resolveHEADMergeBase (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:948359)
+    at t.GitHistoryProvider.onDidRunGitStatus (/usr/share/vscodium/resources/app/extensions/git/dist/main.js:2:941686)

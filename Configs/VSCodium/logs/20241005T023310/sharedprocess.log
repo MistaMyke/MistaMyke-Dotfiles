@@ -1,0 +1,633 @@
+2024-10-05 02:33:55.759 [info] Getting Manifest... enkia.tokyo-night
+2024-10-05 02:33:55.768 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:33:56.316 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/enkia.tokyo-night-1.0.9: enkia.tokyo-night
+2024-10-05 02:33:56.319 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/enkia.tokyo-night-1.0.9
+2024-10-05 02:33:56.328 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:33:56.401 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:03.260 [info] Getting Manifest... ms-python.python
+2024-10-05 02:37:03.292 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:03.665 [info] Getting Manifest... ms-python.vscode-pylance
+2024-10-05 02:37:03.696 [info] Getting Manifest... ms-python.debugpy
+2024-10-05 02:37:03.742 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:37:03.742 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:37:04.943 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-python.debugpy-2024.10.0-linux-x64: ms-python.debugpy
+2024-10-05 02:37:04.945 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-python.debugpy-2024.10.0-linux-x64
+2024-10-05 02:37:05.027 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:06.433 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64: ms-python.python
+2024-10-05 02:37:06.460 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-python.python-2024.14.1-linux-x64
+2024-10-05 02:37:06.543 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:07.652 [info] Getting Manifest... ms-vscode.cpptools
+2024-10-05 02:37:07.668 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:08.961 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-python.vscode-pylance-2024.9.2: ms-python.vscode-pylance
+2024-10-05 02:37:08.966 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-python.vscode-pylance-2024.9.2
+2024-10-05 02:37:08.982 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:08.982 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:08.982 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:09.049 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:11.021 [info] Getting Manifest... esbenp.prettier-vscode
+2024-10-05 02:37:11.024 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:11.977 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2024-10-05 02:37:11.979 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0
+2024-10-05 02:37:11.990 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:12.058 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:14.974 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2024-10-05 02:37:14.978 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:15.215 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2024-10-05 02:37:15.293 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:37:16.080 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8: visualstudioexptteam.intellicode-api-usage-examples
+2024-10-05 02:37:16.082 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8
+2024-10-05 02:37:16.155 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:17.116 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode.cpptools-1.21.6-linux-x64: ms-vscode.cpptools
+2024-10-05 02:37:17.121 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode.cpptools-1.21.6-linux-x64
+2024-10-05 02:37:17.145 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:17.208 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:21.053 [info] Getting Manifest... redhat.java
+2024-10-05 02:37:21.059 [info] Installing extension: redhat.java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:21.193 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.3.1: visualstudioexptteam.vscodeintellicode
+2024-10-05 02:37:21.196 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.3.1
+2024-10-05 02:37:21.217 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:21.217 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:21.276 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:23.465 [info] Getting Manifest... twxs.cmake
+2024-10-05 02:37:23.469 [info] Installing extension: twxs.cmake {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:25.608 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/twxs.cmake-0.0.17: twxs.cmake
+2024-10-05 02:37:25.610 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/twxs.cmake-0.0.17
+2024-10-05 02:37:25.628 [info] Extension installed successfully: twxs.cmake vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:25.689 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:26.942 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-10-05 02:37:26.946 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:27.375 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-10-05 02:37:27.377 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-10-05 02:37:27.390 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:27.455 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:30.354 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/redhat.java-1.35.1-linux-x64: redhat.java
+2024-10-05 02:37:30.358 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/redhat.java-1.35.1-linux-x64
+2024-10-05 02:37:30.381 [info] Extension installed successfully: redhat.java vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:30.445 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:33.126 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-10-05 02:37:33.131 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:33.541 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+2024-10-05 02:37:33.547 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.29.3
+2024-10-05 02:37:33.575 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:33.631 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:36.911 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-10-05 02:37:36.916 [info] Installing extension: ms-vscode.cpptools-themes {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:37.101 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2024-10-05 02:37:37.103 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode.cpptools-themes-2.0.0
+2024-10-05 02:37:37.116 [info] Extension installed successfully: ms-vscode.cpptools-themes vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:37.184 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:50.722 [info] Getting Manifest... eamodio.gitlens
+2024-10-05 02:37:50.732 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:52.008 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/eamodio.gitlens-15.5.1: eamodio.gitlens
+2024-10-05 02:37:52.040 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/eamodio.gitlens-15.5.1
+2024-10-05 02:37:52.079 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:52.123 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:57.206 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2024-10-05 02:37:57.210 [info] Installing extension: ms-vscode.cpptools-extension-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:37:57.786 [info] Getting Manifest... ms-vscode.cpptools
+2024-10-05 02:37:57.792 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-10-05 02:37:57.893 [info] Getting Manifest... twxs.cmake
+2024-10-05 02:37:57.896 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-10-05 02:37:57.926 [info] Installing extension: ms-vscode.cmake-tools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:37:58.061 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode.cpptools-extension-pack-1.3.0: ms-vscode.cpptools-extension-pack
+2024-10-05 02:37:58.063 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2024-10-05 02:37:58.142 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:37:58.409 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode.cmake-tools-1.19.52: ms-vscode.cmake-tools
+2024-10-05 02:37:58.425 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode.cmake-tools-1.19.52
+2024-10-05 02:37:58.456 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:58.456 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:37:58.470 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:10.203 [info] Getting Manifest... ms-dotnettools.csharp
+2024-10-05 02:38:10.209 [info] Installing extension: ms-dotnettools.csharp {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:38:10.362 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-10-05 02:38:10.457 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:38:10.934 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.1.7: ms-dotnettools.vscode-dotnet-runtime
+2024-10-05 02:38:10.935 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.1.7
+2024-10-05 02:38:11.015 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:20.548 [info] Getting Manifest... formulahendry.code-runner
+2024-10-05 02:38:20.552 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:38:21.104 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2024-10-05 02:38:21.106 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/formulahendry.code-runner-0.12.2
+2024-10-05 02:38:21.136 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:21.185 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:26.344 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-dotnettools.csharp-2.45.25-linux-x64: ms-dotnettools.csharp
+2024-10-05 02:38:26.386 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-dotnettools.csharp-2.45.25-linux-x64
+2024-10-05 02:38:26.391 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:26.423 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:26.428 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:26.428 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:26.471 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:28.329 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-10-05 02:38:28.334 [info] Installing extension: ms-vscode-remote.remote-containers {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:38:28.359 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:28.394 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:28.419 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:28.816 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode-remote.remote-containers-0.388.0: ms-vscode-remote.remote-containers
+2024-10-05 02:38:28.820 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode-remote.remote-containers-0.388.0
+2024-10-05 02:38:28.857 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:28.859 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:28.911 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:40.459 [info] Getting Manifest... pkief.material-icon-theme
+2024-10-05 02:38:40.463 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:38:40.509 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:40.560 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:40.588 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:41.215 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/pkief.material-icon-theme-5.11.1: pkief.material-icon-theme
+2024-10-05 02:38:41.227 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/pkief.material-icon-theme-5.11.1
+2024-10-05 02:38:41.257 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:41.260 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:41.308 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:52.758 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-10-05 02:38:52.762 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:38:52.795 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:52.951 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2024-10-05 02:38:52.984 [info] Getting Manifest... ms-vscode.remote-explorer
+2024-10-05 02:38:53.055 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:53.068 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:38:53.069 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:38:53.086 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:53.246 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2024-10-05 02:38:53.248 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode.remote-explorer-0.4.3
+2024-10-05 02:38:53.272 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:53.327 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:38:53.343 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2024-10-05 02:38:53.345 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2024-10-05 02:38:53.373 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:53.445 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode-remote.remote-ssh-0.115.0: ms-vscode-remote.remote-ssh
+2024-10-05 02:38:53.448 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode-remote.remote-ssh-0.115.0
+2024-10-05 02:38:53.477 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:53.479 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:53.480 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:53.480 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:57.711 [info] Getting Manifest... ms-python.isort
+2024-10-05 02:38:57.716 [info] Installing extension: ms-python.isort {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:38:57.744 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:58.640 [info] Getting Manifest... ms-python.python
+2024-10-05 02:38:58.671 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:58.697 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:59.004 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-python.isort-2023.10.1: ms-python.isort
+2024-10-05 02:38:59.015 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-python.isort-2023.10.1
+2024-10-05 02:38:59.057 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:38:59.058 [info] Extension installed successfully: ms-python.isort vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:38:59.069 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:39:02.527 [info] Getting Manifest... ecmel.vscode-html-css
+2024-10-05 02:39:02.531 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:39:02.557 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:02.588 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:02.617 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:02.784 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.10: ecmel.vscode-html-css
+2024-10-05 02:39:02.786 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.10
+2024-10-05 02:39:02.809 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:02.811 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:39:02.866 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:39:10.201 [info] Getting Manifest... github.copilot
+2024-10-05 02:39:10.205 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:39:10.244 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:10.600 [info] Getting Manifest... github.copilot-chat
+2024-10-05 02:39:10.680 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:10.691 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:39:10.710 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:11.542 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/github.copilot-chat-0.20.3: github.copilot-chat
+2024-10-05 02:39:11.545 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/github.copilot-chat-0.20.3
+2024-10-05 02:39:11.581 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:11.588 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:39:12.187 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0: github.copilot
+2024-10-05 02:39:12.189 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/github.copilot-1.235.0
+2024-10-05 02:39:12.194 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:39:12.228 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:12.230 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:39:12.230 [info] Extension installed successfully: github.copilot vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:39:16.662 [info] Getting Manifest... redhat.vscode-yaml
+2024-10-05 02:39:16.666 [info] Installing extension: redhat.vscode-yaml {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:39:16.703 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:16.742 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:16.776 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:17.033 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/redhat.vscode-yaml-1.15.0: redhat.vscode-yaml
+2024-10-05 02:39:17.035 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/redhat.vscode-yaml-1.15.0
+2024-10-05 02:39:17.072 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:17.073 [info] Extension installed successfully: redhat.vscode-yaml vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:39:17.114 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:39:53.522 [info] Getting Manifest... golang.go
+2024-10-05 02:39:53.527 [info] Installing extension: golang.go {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:39:53.567 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:53.611 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:53.642 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:53.921 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/golang.go-0.42.1: golang.go
+2024-10-05 02:39:53.925 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/golang.go-0.42.1
+2024-10-05 02:39:53.957 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:39:53.961 [info] Extension installed successfully: golang.go vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:39:54.005 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:40:07.448 [info] Getting Manifest... ms-vscode.powershell
+2024-10-05 02:40:07.452 [info] Installing extension: ms-vscode.powershell {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:40:07.484 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:07.588 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:07.627 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:10.483 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-vscode.powershell-2024.2.2: ms-vscode.powershell
+2024-10-05 02:40:10.495 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-vscode.powershell-2024.2.2
+2024-10-05 02:40:10.535 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:10.538 [info] Extension installed successfully: ms-vscode.powershell vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:40:10.588 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:40:11.036 [info] Getting Manifest... donjayamanne.githistory
+2024-10-05 02:40:11.042 [info] Installing extension: donjayamanne.githistory {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:40:11.068 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:11.114 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:11.148 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:11.368 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2024-10-05 02:40:11.370 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/donjayamanne.githistory-0.6.20
+2024-10-05 02:40:11.403 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:11.404 [info] Extension installed successfully: donjayamanne.githistory vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:40:11.448 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:40:33.866 [info] Getting Manifest... kevinrose.vsc-python-indent
+2024-10-05 02:40:33.870 [info] Installing extension: kevinrose.vsc-python-indent {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:40:33.904 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:33.953 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:33.982 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:34.249 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.18.0: kevinrose.vsc-python-indent
+2024-10-05 02:40:34.251 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.18.0
+2024-10-05 02:40:34.289 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:34.291 [info] Extension installed successfully: kevinrose.vsc-python-indent vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:40:34.331 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:40:51.325 [info] Getting Manifest... abusaidm.html-snippets
+2024-10-05 02:40:51.330 [info] Installing extension: abusaidm.html-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:40:51.379 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:51.430 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:51.459 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:51.720 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+2024-10-05 02:40:51.721 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/abusaidm.html-snippets-0.2.1
+2024-10-05 02:40:51.748 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:40:51.749 [info] Extension installed successfully: abusaidm.html-snippets vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:40:51.801 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:41:08.023 [info] Getting Manifest... donjayamanne.python-extension-pack
+2024-10-05 02:41:08.026 [info] Installing extension: donjayamanne.python-extension-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:41:08.058 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:09.134 [info] Getting Manifest... ms-python.python
+2024-10-05 02:41:09.144 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2024-10-05 02:41:09.148 [info] Getting Manifest... batisteo.vscode-django
+2024-10-05 02:41:09.186 [info] Getting Manifest... kevinrose.vsc-python-indent
+2024-10-05 02:41:09.189 [info] Getting Manifest... njpwerner.autodocstring
+2024-10-05 02:41:09.271 [info] Getting Manifest... wholroyd.jinja
+2024-10-05 02:41:09.312 [info] Getting Manifest... donjayamanne.python-environment-manager
+2024-10-05 02:41:09.375 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:09.385 [info] Installing extension: batisteo.vscode-django {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:41:09.386 [info] Installing extension: njpwerner.autodocstring {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:41:09.386 [info] Installing extension: wholroyd.jinja {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:41:09.386 [info] Installing extension: donjayamanne.python-environment-manager {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:41:09.409 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:09.847 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/donjayamanne.python-extension-pack-1.7.0: donjayamanne.python-extension-pack
+2024-10-05 02:41:09.848 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/donjayamanne.python-extension-pack-1.7.0
+2024-10-05 02:41:09.876 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:09.919 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/wholroyd.jinja-0.0.8: wholroyd.jinja
+2024-10-05 02:41:09.921 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/wholroyd.jinja-0.0.8
+2024-10-05 02:41:09.927 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:41:09.947 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:09.990 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/batisteo.vscode-django-1.15.0: batisteo.vscode-django
+2024-10-05 02:41:09.992 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/batisteo.vscode-django-1.15.0
+2024-10-05 02:41:10.030 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:10.030 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/njpwerner.autodocstring-0.6.1: njpwerner.autodocstring
+2024-10-05 02:41:10.039 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/njpwerner.autodocstring-0.6.1
+2024-10-05 02:41:10.068 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:10.191 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/donjayamanne.python-environment-manager-1.2.4: donjayamanne.python-environment-manager
+2024-10-05 02:41:10.202 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/donjayamanne.python-environment-manager-1.2.4
+2024-10-05 02:41:10.229 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:10.231 [info] Extension installed successfully: donjayamanne.python-extension-pack vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:10.231 [info] Extension installed successfully: wholroyd.jinja vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:10.231 [info] Extension installed successfully: batisteo.vscode-django vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:10.231 [info] Extension installed successfully: njpwerner.autodocstring vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:10.231 [info] Extension installed successfully: donjayamanne.python-environment-manager vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:16.774 [info] Getting Manifest... mhutchie.git-graph
+2024-10-05 02:41:16.778 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:41:16.819 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:16.858 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:16.887 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:17.169 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2024-10-05 02:41:17.172 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/mhutchie.git-graph-1.30.0
+2024-10-05 02:41:17.207 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:17.209 [info] Extension installed successfully: mhutchie.git-graph vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:17.251 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:41:26.293 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-10-05 02:41:26.297 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:41:26.350 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:26.396 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:26.443 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:26.716 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+2024-10-05 02:41:26.718 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/mechatroner.rainbow-csv-3.12.0
+2024-10-05 02:41:26.746 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:26.748 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:26.796 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:41:43.705 [info] Getting Manifest... zignd.html-css-class-completion
+2024-10-05 02:41:43.710 [info] Installing extension: zignd.html-css-class-completion {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:41:43.769 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:43.827 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:43.858 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:44.878 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/zignd.html-css-class-completion-1.20.0: zignd.html-css-class-completion
+2024-10-05 02:41:44.890 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/zignd.html-css-class-completion-1.20.0
+2024-10-05 02:41:44.932 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:41:44.934 [info] Extension installed successfully: zignd.html-css-class-completion vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:41:44.969 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:42:04.964 [info] Getting Manifest... ms-mssql.mssql
+2024-10-05 02:42:04.969 [info] Installing extension: ms-mssql.mssql {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:42:04.999 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:05.120 [info] Getting Manifest... ms-mssql.data-workspace-vscode
+2024-10-05 02:42:05.153 [info] Getting Manifest... ms-mssql.sql-database-projects-vscode
+2024-10-05 02:42:05.184 [info] Getting Manifest... ms-mssql.sql-bindings-vscode
+2024-10-05 02:42:05.273 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:05.289 [info] Installing extension: ms-mssql.data-workspace-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:42:05.289 [info] Installing extension: ms-mssql.sql-database-projects-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:42:05.289 [info] Installing extension: ms-mssql.sql-bindings-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-05 02:42:05.345 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:05.799 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-mssql.data-workspace-vscode-0.5.0: ms-mssql.data-workspace-vscode
+2024-10-05 02:42:05.801 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-mssql.data-workspace-vscode-0.5.0
+2024-10-05 02:42:05.840 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:05.880 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:42:06.136 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-mssql.sql-bindings-vscode-0.4.0: ms-mssql.sql-bindings-vscode
+2024-10-05 02:42:06.139 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-mssql.sql-bindings-vscode-0.4.0
+2024-10-05 02:42:06.180 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:06.223 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:42:06.530 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-mssql.sql-database-projects-vscode-1.4.3: ms-mssql.sql-database-projects-vscode
+2024-10-05 02:42:06.532 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-mssql.sql-database-projects-vscode-1.4.3
+2024-10-05 02:42:06.568 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:06.611 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:42:09.549 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/ms-mssql.mssql-1.24.0: ms-mssql.mssql
+2024-10-05 02:42:09.561 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/ms-mssql.mssql-1.24.0
+2024-10-05 02:42:09.600 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:42:09.604 [info] Extension installed successfully: ms-mssql.data-workspace-vscode vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:42:09.604 [info] Extension installed successfully: ms-mssql.sql-bindings-vscode vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:42:09.604 [info] Extension installed successfully: ms-mssql.sql-database-projects-vscode vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:42:09.605 [info] Extension installed successfully: ms-mssql.mssql vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:42:09.643 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:43:14.418 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:44:03.812 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-10-05 02:44:03.817 [info] Installing extension: vscode-icons-team.vscode-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json","path":"/home/mistamyke/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-10-05T06:06:03.537Z"}}
+2024-10-05 02:44:03.868 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:44:03.926 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:44:03.963 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:44:04.878 [info] Extracted extension to file:///home/mistamyke/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.9.0: vscode-icons-team.vscode-icons
+2024-10-05 02:44:04.889 [info] Renamed to /home/mistamyke/.vscode-oss/extensions/vscode-icons-team.vscode-icons-12.9.0
+2024-10-05 02:44:04.927 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:44:04.932 [info] Extension installed successfully: vscode-icons-team.vscode-icons vscode-userdata:/home/mistamyke/.vscode-oss/extensions/extensions.json
+2024-10-05 02:44:04.968 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mistamyke/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22224)
+    at h (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:22355)
+    at p.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:48003)
+    at p.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:38485)
+    at async c.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:19784)
+    at async B.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:148257)
+2024-10-05 02:44:59.544 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:44:59.614 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:41.652 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:42.131 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:42.309 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:42.573 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:42.697 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:44.066 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:46:44.077 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:51:44.182 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:27.867 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:28.084 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:28.672 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:43.823 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:44.129 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:44.371 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:44.724 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:46.294 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.
+2024-10-05 02:53:46.308 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.

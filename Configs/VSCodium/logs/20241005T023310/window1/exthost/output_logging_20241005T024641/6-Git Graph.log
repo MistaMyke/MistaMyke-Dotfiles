@@ -1,0 +1,35 @@
+[2024-10-05 02:46:50.321] Starting Git Graph ...
+[2024-10-05 02:46:50.334] Using git (version: 2.46.2)
+[2024-10-05 02:46:50.337] Started Git Graph - Ready to use!
+[2024-10-05 02:46:50.337] Searching workspace for new repos ...
+[2024-10-05 02:46:50.342] > git rev-parse --show-toplevel
+[2024-10-05 02:46:50.364] Completed searching workspace for new repos
+[2024-10-05 02:46:50.369] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-10-05 02:47:10.531] > git rev-parse --show-toplevel
+[2024-10-05 02:52:18.743] > git rev-parse --show-toplevel
+[2024-10-05 02:52:18.751] > git rev-parse --show-toplevel
+[2024-10-05 02:52:57.583] > git rev-parse --show-toplevel
+[2024-10-05 02:52:57.588] > git rev-parse --show-toplevel
+[2024-10-05 02:53:07.768] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.822] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.826] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.832] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.837] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.841] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.846] > git rev-parse --show-toplevel
+[2024-10-05 02:53:29.851] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.496] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.502] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.508] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.514] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.519] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.524] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.529] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.535] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.541] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.548] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.553] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.558] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.562] > git rev-parse --show-toplevel
+[2024-10-05 02:53:46.568] > git rev-parse --show-toplevel
+[2024-10-05 02:54:52.687] > git rev-parse --show-toplevel

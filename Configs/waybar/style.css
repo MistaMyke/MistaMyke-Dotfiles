@@ -1,0 +1,326 @@
+/* TURN ON TEXT SHADOWS TO HAVE A GLOWING TEXT EFFECT */
+
+
+/* Color-scheme */
+@import './colors/Tokyonight.css';
+/*@import './colors/Tokyonight-Rev.css';*/
+
+* {
+  border: none;
+  background: transparent;
+  padding-left: 2px;
+  padding-right: 2px;
+  /*font-family: VictorMono, Iosevka Nerd Font, Noto Sans CJK;*/
+  /* font-family: Iosevka, FontAwesome, Noto Sans CJK;*/
+  font-family: "JetBrainsMono Nerd Font";
+  font-size: 12px;
+  font-style: normal;
+  min-height: 0;
+  opacity: 0.95;
+}
+
+window#waybar {
+  background: transparent;
+  /*background: transparent;*/
+  /*border-bottom: 1px solid @bg-color-secondary;*/
+  /*color: @text-color-primary;*/
+}
+
+#workspaces {
+  background: transparent;
+  /*opacity: 0.65;*/
+  margin: 5px 10px 5px 10px;
+  padding: 0px 5px 0px 5px;
+  /* box-shadow: 0 0 8px 2px @muted-text-color;*/
+  /* Pink glow */
+  border-radius: 16px;
+  border: solid 2px @border-color;
+  font-weight: bold;
+  font-style: normal;
+  /* text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color;*/
+}
+
+#workspaces button {
+  padding: 0px 5px;
+  border-radius: 16px;
+  color: @border-color;
+}
+
+#workspaces button.active {
+  color: @text-color;
+  background-color: transparent;
+  border-radius: 16px;
+}
+
+#workspaces button:hover {
+  background-color: @bg-hover-color;
+  color: black;
+  border-radius: 16px;
+}
+
+#custom-date,
+#clock,
+#pulseaudio,
+#custom-randwall,
+#custom-launcher,
+#battery,
+#battery.icon {
+  background: transparent;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  /* border-bottom: solid 1px @border-color-primary;
+ */
+}
+
+#custom-power {
+  color: @text-color;
+  background: transparent;
+  margin: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 16px;
+  /*  border: solid 2px @text-color-primary; */
+  font-weight: normal;
+  font-style: normal;
+}
+
+#tray {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 12px 0px 0px 12px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @border-color;
+  text-shadow: 0 0 5px @text-color, 0 0 5px @text-color;
+}
+
+#clock {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: 1px solid @border-color;
+  border-radius: 12px 0px 0px 12px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  /* text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; # Turn this on to make it look like its glowing. */
+  /*border-left: solid 1px #282738;*/
+}
+
+
+#clock.calendar {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: 1px solid @border-color;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+#backlight {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @border-color;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+
+#battery {
+  color: @text-color;
+  background-color: transparent;
+  border: 1px solid @border-color;
+  border-right: none;
+  border-radius: 10px 0px 0px 10px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 15px;
+  border-bottom: solid 1px @border-color;
+  border-bottom-left-radius: 20px;
+  font-weight: bold;
+}
+
+#battery.icon {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 0px 12px 12px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @border-color;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+#battery.charging {
+  color: @text-color;
+}
+
+#battery.warning:not(.charging) {
+  background-color: #f7768e;
+  color: @power-text-color;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+#pulseaudio {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @border-color;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+#pulseaudio.microphone {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @border-color;
+  /* text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+
+#pulseaudio.muted {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @text-color-primary;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+
+}
+
+#pulseaudio.microphone.muted {
+  color: @text-color;
+  border: 1px solid @border-color;
+  border-left: none;
+  border-radius: 0px 20px 10px 0px;
+
+}
+
+@keyframes blink-update {
+  to {
+    background-color: dodgerblue;
+  }
+}
+
+#custom-pacman {
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#custom-pacman.pending-updates {
+  animation-name: blink-update;
+  animation-duration: 3s;
+}
+
+#custom-updates {
+  background-color: transparent;
+  color: @text-color;
+  padding-right: 10px;
+
+}
+
+#custom-playerctl {
+  background-color: transparent;
+  /*border: 2px solid @text-color-primary;
+  border-radius: 12px 12px 12px 12px;
+  padding: 0px 7px 0px 0px;
+  margin: 5px 5px 5px 5px;
+  border-bottom: solid 1px  @border-color-primary;*/
+  margin: 5px 5px 5px 5px;
+  padding: 0px 5px 0px 5px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 10px;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+#custom-playerlabel {
+  color: @text-color;
+  background: transparent;
+  padding-left: 6px;
+  padding-right: 3px;
+  border-radius: 12px;
+  /*border-left: solid 1px #282738;*/
+  /*border-right: solid 1px #282738;*/
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 9px;
+  text-shadow: 0 0 5px @bg-hover-color, 0 0 5px @bg-hover-color;
+}
+
+#window {
+  background: transparent;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 16px;
+  /*border-left: solid 1px #282738;*/
+  /*border-right: solid 1px #282738;*/
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: normal;
+  font-style: normal;
+}
+
+#cpu {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: 1px solid @border-color;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+#memory {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: 1px solid @border-color;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
+
+#disk {
+  color: @text-color;
+  background-color: transparent;
+  border: 2px solid @border-color;
+  border-right: none;
+  border-radius: 0px 12px 12px 0px;
+  padding: 0px 10px 0px 10px;
+  margin: 5px 0px 5px 0px;
+  font-weight: bold;
+  border-right: solid 1px @border-color;
+  /*  text-shadow: 0 0 5px @muted-text-color, 0 0 5px @muted-text-color; */
+}
