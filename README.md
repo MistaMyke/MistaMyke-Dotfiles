@@ -1,18 +1,18 @@
-# 🌟 Welcome to My Code Hub!
+# Welcome to My Code Hub!
 
 ## About Me
 Hey there! I'm [Your Name], a passionate developer who loves tinkering with code and sharing the magic of customization. Whether it's optimizing my workflow or creating visually stunning themes, I believe coding should be both functional and fun. Let's explore together!
 
 ---
 
-## 📁 What You'll Find Here
+##  What You'll Find Here
 
 - **Dotfiles & Configs**: Customize your environment with my handpicked dotfiles that enhance your terminal and editor experience. 
 - **Project Files & Theme Packs**: Check out my collection of projects and stylish themes that bring your applications to life.
 
 ---
 
-## 🛠️ Essential Programs
+##  Essential Programs
 
 Here’s my go-to list of must-have programs that I can’t live without:
 
@@ -23,7 +23,7 @@ Here’s my go-to list of must-have programs that I can’t live without:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 Here’s a sneak peek of what you can expect! 
 
@@ -32,7 +32,7 @@ Here’s a sneak peek of what you can expect!
 
 ---
 
-## 📚 Tutorials
+##  Tutorials
 
 Want to get the most out of these goodies? Check out my step-by-step tutorials:
 - [Setting Up Dotfiles](link-to-tutorial)
@@ -50,7 +50,7 @@ Here's a quick look at my setup:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this repo, open issues, or submit pull requests! I’m always excited to collaborate and improve together.
 
