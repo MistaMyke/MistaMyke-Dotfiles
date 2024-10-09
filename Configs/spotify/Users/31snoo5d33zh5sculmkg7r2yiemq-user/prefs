@@ -1,9 +1,10 @@
-audio.equalizer.low_mid_peak_gain_v2=384757487
-audio.equalizer.low_peak_gain_v2=706880034
-audio.equalizer_v2=true
-audio.equalizer.high_mid_peak_gain_v2=313174699
-audio.play_bitrate_non_metered_migrated=true
 connect.dial_devices="[{\"address\":\"192.168.0.243\",\"app_state\":\"MISSING\",\"created_timestamp\":1728107340,\"device_id\":\"6f939a8b-29c8-31bf-99f0-173cff9f867b\",\"dial_location_url\":\"http://192.168.49.1:60000/upnp/dev/6f939a8b-29c8-31bf-99f0-173cff9f867b/desc\",\"display_name\":\"Michael's Fire TV Stick\",\"last_seen\":1728107471,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTT\",\"product_cap\":\"\",\"public_ip\":\"98.5.188.43\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"007147fd166b\",\"port\":9,\"retries\":1400}},{\"address\":\"192.168.0.139\",\"app_state\":\"MISSING\",\"created_timestamp\":1728107340,\"device_id\":\"945888c3-82ca-3465-abd5-1f3f08673bb3\",\"dial_location_url\":\"http://192.168.0.139:60000/upnp/dev/945888c3-82ca-3465-abd5-1f3f08673bb3/desc\",\"display_name\":\"Michael's Echo Show 5\",\"last_seen\":1728107473,\"manufacturer\":\"Amazon\",\"model_name\":\"AEOCN\",\"product_cap\":\"\",\"public_ip\":\"98.5.188.43\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"b0f7c4df4050\",\"port\":9,\"retries\":1400}},{\"address\":\"192.168.0.139\",\"app_state\":\"MISSING\",\"created_timestamp\":1728107236,\"device_id\":\"945888c3-82ca-3465-abd5-1f3f08673bb3\",\"dial_location_url\":\"http://192.168.0.139:60000/upnp/dev/945888c3-82ca-3465-abd5-1f3f08673bb3/desc\",\"display_name\":\"Michael's Echo Show 5\",\"last_seen\":1728107236,\"manufacturer\":\"Amazon\",\"model_name\":\"AEOCN\",\"product_cap\":\"\",\"public_ip\":\"\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"b0f7c4df4050\",\"port\":9,\"retries\":1400}},{\"address\":\"192.168.49.1\",\"app_state\":\"MISSING\",\"created_timestamp\":1728087870,\"device_id\":\"6f939a8b-29c8-31bf-99f0-173cff9f867b\",\"dial_location_url\":\"http://192.168.0.243:60000/upnp/dev/6f939a8b-29c8-31bf-99f0-173cff9f867b/desc\",\"display_name\":\"Michael's Fire TV Stick\",\"last_seen\":1728087870,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTT\",\"product_cap\":\"\",\"public_ip\":\"\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"007147fd166b\",\"port\":9,\"retries\":1400}}]"
+audio.play_bitrate_non_metered_migrated=true
+audio.equalizer.high_mid_peak_gain_v2=313174699
+audio.equalizer_v2=true
+audio.equalizer.low_peak_gain_v2=706880034
+audio.equalizer.low_mid_peak_gain_v2=384757487
 audio.equalizer.high_peak_gain_v2=626349397
+app.player.volume=28187
 audio.equalizer.high_shelf_gain_v2=384757487
 audio.equalizer.low_shelf_gain_v2=876889156

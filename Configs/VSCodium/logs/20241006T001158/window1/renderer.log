@@ -1,7 +1,0 @@
-2024-10-06 00:11:59.677 [info] Started local extension host with pid 52597.
-2024-10-06 00:12:00.008 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-10-06 00:12:00.008 [error] Extension 'github.copilot-chat' wants API proposal 'lmTools@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-10-06 00:12:00.063 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
-2024-10-06 00:12:00.063 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2024-10-06 00:12:02.381 [info] [perf] Render performance baseline is 26ms
-2024-10-06 00:12:02.830 [warning] [csharp]: Couldn't find message for key configuration.dotnet.unitTests.runSettingsPath.markdownDescription.

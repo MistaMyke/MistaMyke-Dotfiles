@@ -1,3 +1,6 @@
-2024/10/04-23:25:00.940 56ec Reusing MANIFEST /home/mistamyke/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2024/10/04-23:25:00.945 56ec Recovering log #4
-2024/10/04-23:25:00.945 56ec Reusing old log /home/mistamyke/.config/WebCord/Local Storage/leveldb/000004.log 
+2024/10/07-00:17:57.258 19fbe Reusing MANIFEST /home/mistamyke/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/10/07-00:17:57.264 19fbe Recovering log #4
+2024/10/07-00:17:57.265 19fbe Reusing old log /home/mistamyke/.config/WebCord/Local Storage/leveldb/000004.log 
+2024/10/07-00:18:59.367 19fbf Level-0 table #8: started
+2024/10/07-00:18:59.404 19fbf Level-0 table #8: 23448 bytes OK
+2024/10/07-00:18:59.406 19fbf Delete type=0 #4

@@ -1,8 +1,0 @@
-2024-10-05 02:53:28.203 [info] Extension host with pid 9638 started
-2024-10-05 02:53:28.519 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-10-05 02:53:28.521 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
-2024-10-05 02:53:28.530 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
-2024-10-05 02:53:28.625 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-10-05 02:53:28.640 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-10-05 02:53:28.661 [info] Extension host terminating: renderer closed the MessagePort
-2024-10-05 02:53:28.664 [info] Extension host with pid 9638 exiting with code 0
